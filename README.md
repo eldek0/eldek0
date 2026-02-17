@@ -19,4 +19,5 @@
 ![Prolog](https://img.shields.io/badge/Prolog-%23008080.svg?style=for-the-badge&logo=swipl&logoColor=white)
 ![Assembler (PIC8)](https://img.shields.io/badge/Assembler-PIC8-%23FF6600?style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%233157A6.svg?style=for-the-badge&logo=matlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 
