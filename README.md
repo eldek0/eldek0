@@ -18,7 +18,10 @@
 
 ### Basic knowledge
 ![Prolog](https://img.shields.io/badge/Prolog-%23008080.svg?style=for-the-badge&logo=swipl&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%239682B5.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Assembler (PIC8)](https://img.shields.io/badge/Assembler-PIC8-%23FF6600?style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%233157A6.svg?style=for-the-badge&logo=matlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23000000.svg?style=for-the-badge&logo=opengl&logoColor=white)
 
