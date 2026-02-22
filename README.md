@@ -10,6 +10,7 @@
 ![Oracle Cloud](https://img.shields.io/badge/OracleCloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Game Engines & Frameworks
 ![Pygame](https://img.shields.io/badge/pygame-%2319320F.svg?style=for-the-badge&logo=pygame&logoColor=white)
